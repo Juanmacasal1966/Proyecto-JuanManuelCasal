@@ -187,7 +187,7 @@ p {
 
 body {
     text-align: center;
-   background-image: url(/img/estadio.jpg);
+   background-image: url(img/estadio.jpg);
    background-size: cover;
     margin: 0;
     padding: 0;
